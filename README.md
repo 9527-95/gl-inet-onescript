@@ -184,3 +184,4 @@ read -p "请输入glibox局域网 IP: " ip && wget -O /tmp/gl.sh http://$ip:1505
 
 ![6500](https://github.com/user-attachments/assets/3cc74252-4641-4a39-b01a-6c5ebb13021c)
 
+<img width="3784" height="1740" alt="CleanShot 2026-02-26 at 11 15 41@2x" src="https://github.com/user-attachments/assets/ee1c2898-28dd-43db-82c2-e3756c5be52a" />
